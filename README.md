@@ -20,9 +20,3 @@ This project predicts Apple Inc. (AAPL) stock prices using machine learning and 
 - `frontend.py`: Streamlit app code for user interaction
 - `AAPL.csv`: Historical Apple stock data
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/apple-stock-prediction.git
-cd apple-stock-prediction
